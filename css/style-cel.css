@@ -29,10 +29,6 @@
         bottom: 0;
         width: 100%;
     }
-    .reservar-cel-btn{
-        display: flex;
-        align-items: center;
-    }
     .reservar-cel button {
         padding-right:  200px;
         background-color: #ff385c;
